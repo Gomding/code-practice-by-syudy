@@ -11,8 +11,9 @@ public class TryWithResourceEx2 {
         * */
         try (MyClass myClass = new MyClass()) {
             System.out.println("try문 내부 실행됨");
+            throw new Exception("예외 발생");
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("예외 발생");
         } finally {
             System.out.println("finally 실행됨");
         }

@@ -1,8 +1,15 @@
-study210409/TryWithResourceEx1.java
- study210409.TryWithResourceEx1
-study210409/TryCatchEx1.java
- study210409.TryCatchEx1
-study210409/MyClass.java
- study210409.MyClass
-study210409/TryWithResourceEx2.java
- study210409.TryWithResourceEx2
+try_catch_20210409/TryWithResourceEx2.java
+ try_catch_20210409.TryWithResourceEx2
+try_catch_20210409/CustomExceptionEx1.java
+ try_catch_20210409.CustomExceptionEx1
+ try_catch_20210409.MyCustomException
+try_catch_20210409/MyClass.java
+ try_catch_20210409.MyClass
+try_catch_20210409/TryWithResourceEx1.java
+ try_catch_20210409.TryWithResourceEx1
+try_catch_20210409/TryCatchEx1.java
+ try_catch_20210409.TryCatchEx1
+equals_and_hashcode_20210412/EqualsTest.java
+ equals_and_hashcode_20210412.EqualsTest
+equals_and_hashcode_20210412/HashCodeTest.java
+ equals_and_hashcode_20210412.HashCodeTest
